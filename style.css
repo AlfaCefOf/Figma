@@ -1,0 +1,101 @@
+@import url(https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;800;900&display=swap);
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    color: inherit;
+    font-family: 'Inter', sans-serif;
+}
+
+
+header {
+    background-color: black;
+    padding: 15px 100px;
+}
+
+footer {
+    background-color: black;
+    padding: 15px 100px;
+}
+
+.nvr {
+    display: flex;
+    color: white;
+    column-gap: 30px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nvr li a {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+
+
+.p1 {
+    font-size: 65px;
+    justify-content: center;
+    align-items: center;
+    padding: 114px 248px;
+}
+
+.box1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.container {
+    margin: 0 auto;
+    width: 90%;
+}
+
+.prs1 {
+    display: flex;
+    gap: 30px;
+}
+
+.dv1 {
+    background-color: white;
+    width: 393px;
+    height: 396px;
+}
+
+.img1 {
+    width: 393px;
+    height: 230px;
+}
+
+.dh1 {
+    font-size: 22px;
+    text-align: center;
+    margin: 20px 0 10px 0;
+}
+
+.dp1 {
+    font-size: 14px;
+    opacity: 0.8;
+    text-align: center;
+}
+
+.prs2 {
+    display: flex;
+    gap: 30px;
+    margin: 80px 0 102px 0;
+}
+
+.dv2 {
+    background-color: white;
+    width: 393px;
+    height: 396px;
+}
